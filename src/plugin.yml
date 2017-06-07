@@ -1,0 +1,10 @@
+# HabitatAPI plugin.yml
+name: HabitatAPI
+main: com.gmail.Xeiotos.HabitatAPI.HabitatAPI
+version: 1.5.1
+
+commands:
+   debug:
+      description: Debug command.
+      usage: /debug
+      permission-message: You don't have permission to do this!
